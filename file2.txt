@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file2
+=======
+file2 cintent
+>>>>>>> bug6

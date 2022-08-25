@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file4
+=======
+its file4 of bug3
+>>>>>>> bug3
